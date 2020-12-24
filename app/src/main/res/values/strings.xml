@@ -1,3 +1,48 @@
 <resources>
-    <string name="app_name">rtgfinal</string>
+    <string name="app_name">Rtg</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">1</string>
+    <string name="slide_1_desc">Masukkan nama anda</string>
+
+    <string name="slide_2_title">2</string>
+    <string name="slide_2_desc">Dimanakah alamat rumah yang akan dibangun?</string>
+
+    <string name="slide_3_title">3</string>
+    <string name="slide_3_desc">Dimanakah lokasi rumah yang akan dibangun?</string>
+
+    <string name="slide_4_title">4</string>
+    <string name="slide_4_desc">Apakah jenis tanah di lokasi rumah akan dibangun? </string>
+
+    <string name="slide_5_title">5</string>
+    <string name="slide_5_desc">Berapa kedalaman muka air sumur saat hujan? </string>
+
+    <string name="slide_6_title">6</string>
+    <string name="slide_6_desc">Berapa luas rumah yang akan dibangun (m2)? </string>
+
+    <string name="slide_7_title">7</string>
+    <string name="slide_7_desc">Berapa jumlah penghuni dari rumah yang akan dibangun? </string>
+
+    <string name="slide_8_title">8</string>
+    <string name="slide_8.1_desc">Berapa dana pribadi yang tersedia untuk membagun rumah? </string>
+    <string name="slide_8.2_desc">Berapa dana lain yang tersedia untuk membagun rumah? </string>
+
+    <string name="slide_9_title">9</string>
+    <string name="slide_9_desc">Apakah fungsi dari rumah yang akan dibangun? </string>
+
+    <string name="slide_10_title">10</string>
+    <string name="slide_10_desc">Apakah ada kenalan tukang yang mampu membangun rumah tahan gempa? </string>
+
+    <string name="slide_11_title">11</string>
+    <string name="slide_11_desc">Apakah bisa menyediakan pasir bangunan dan kerikil yang baik, serta besi tulangan 10 mm dan 8 mm? </string>
+
+    <string name="slide_12_title">12</string>
+    <string name="slide_12_desc">Apakah ada warga atau komunitas masyarakat di sekitar yang mendukung dan peduli tentang rumah tahan gempa? </string>
+
+    <string name="slide_13_title">13</string>
+    <string name="slide_13_desc">Apakah ada ahli  rumah tahan gempa yang bisa dihubungi dan diajak diskusi? </string>
+
 </resources>
